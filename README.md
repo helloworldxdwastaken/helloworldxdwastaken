@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on https://github.com/helloworldxdwastaken/CalmSoundsASMR<br>🌱 I’m currently learning code<br>⚡ Fun fact I made all my programs using my own AI and ChatGPT
+🔭 I’m currently working on <br>https://github.com/helloworldxdwastaken/CalmSoundsASMR<br>https://github.com/helloworldxdwastaken/EVA_AI<br><br>🌱 I’m currently learning code<br>⚡ Fun fact I made all my programs using my own AI and ChatGPT
 
 
 ## 🌐 Socials:
